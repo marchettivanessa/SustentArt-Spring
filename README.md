@@ -12,7 +12,7 @@
 [Weslley Rocha](https://github.com/WeslleyRocha)<br><br><br>  
 
 
-## :chart_with_upwards_trend: Projeto Integrador [Generation BR](https://brazil.generation.org/) :bar_chart:
+## :chart_with_upwards_trend: Projeto Integrador [SustentArt](https://sustentart.herokuapp.com/) :bar_chart:
 
 O problema social escolhido está incluído dentro da <b>[12 ODS](https://brasil.un.org/pt-br/sdgs/12)</b>: Consumo e produção sustentáveis. A ideia é trazer impacto na sociedade através da diminuição do desperdício, reaproveitando recursos, ao mesmo tempo, criar uma rede de apoio na comunidade.
 
